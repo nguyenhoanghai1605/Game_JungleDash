@@ -6,8 +6,7 @@
 
 Jungle Dash is a simple 2D platformer game made with python and pygame.
 
-![app](https://github.com/user-attachments/assets/69fc93cb-8169-43be-bedc-89c132c3026a)
-
+![app](https://github.com/user-attachments/assets/992d2258-cd2e-4aaf-bc79-298aebf41952)
 
 ## Requirements
 
